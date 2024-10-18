@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "nombre": "Ana García",
+      "email": "ana.garcia@example.com",
+      "reseña": "Desarrolladora web con experiencia en React y Next.js. Apasionada por la creación de interfaces de usuario interactivas y atractivas."
+    },
+    {
+      "id": 2,
+      "nombre": "Juan Pérez",
+      "email": "juan.perez@example.com",
+      "reseña": "Diseñador gráfico con un enfoque en la experiencia de usuario.  Especializado en la creación de marcas y diseño web."
+    },
+    {
+      "id": 3,
+      "nombre": "Laura Martínez",
+      "email": "laura.martinez@example.com",
+      "reseña": "Especialista en marketing digital con experiencia en SEO, SEM y redes sociales.  Apasionada por el análisis de datos y la optimización de campañas."
+    }
+  ]
