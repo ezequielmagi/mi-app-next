@@ -1,5 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
+Pequeño proyecto-escuela para aprender a manejar rutas en Nextjs
 ## Getting Started
 
 First, run the development server:
